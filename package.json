@@ -1,0 +1,16 @@
+{
+    "name": "envimaps.id",
+    "version": "1.0.0",
+    "description": "Environmental Quality Maps Indonesia",
+    "license": "Apache-2.0",
+    "author": "Ranudata",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "brain": "^1.0.0",
+        "vue": "^2.6.10",
+        "vue-axios": "^2.1.4"
+    }
+}
