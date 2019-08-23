@@ -2,7 +2,7 @@
   "name": "envimaps.id",
   "version": "1.0.0",
   "description": "Environmental Quality Maps Indonesia",
-  "author": "xujaan <ahmadakhussyuj.an@gmail.com>",
+  "author": "Ranudata",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
